@@ -5,7 +5,7 @@
              x:Class="App1.MainPage">
 
   <Label Text="Welcome to Xamarin Forms!"
-           VerticalOptions="Center"
+           VerticalOptions="Left"
            HorizontalOptions="Center" />
 
 </ContentPage>
